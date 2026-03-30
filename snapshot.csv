@@ -1,0 +1,5 @@
+person,company,ticker,role,tenure_start,leadership_score,trajectory_score,why_watch
+Anhco Nguyen,ATRA,ATRA,CEO,2024-04-20,0.9434273356712267,0.009706749637427426,"P(success)=0.94. Signals: pre_3m_return ↑ (val=0.125), insider_buy_score ↑ (val=0.080), cap_alloc_buyback_rate ↑ (val=0.000). Sector=Unknown."
+Robert C Flexon,UGI,UGI,CEO,2024-04-20,0.7670422807900467,0.0018420707701412708,"P(success)=0.77. Signals: pre_3m_return ↑ (val=0.049), insider_sell_score ↑ (val=0.040), insider_buy_score ↑ (val=0.084). Sector=Unknown."
+Stephen C Farrell,STAA,STAA,CEO,2024-04-20,0.7642146055610846,0.0020258020175404766,"P(success)=0.76. Signals: pre_3m_return ↑ (val=0.054), insider_buy_score ↑ (val=0.070), cap_alloc_buyback_rate ↑ (val=0.000). Sector=Unknown."
+Robert E Claypoole,BVS,BVS,CEO,2024-04-20,0.7497135620620999,0.0030986463036057604,"P(success)=0.75. Signals: pre_3m_return ↑ (val=0.051), insider_sell_score ↑ (val=0.034), cap_alloc_buyback_rate ↑ (val=0.000). Sector=Unknown."

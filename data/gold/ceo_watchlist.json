@@ -1,0 +1,982 @@
+[
+  {
+    "person": "Aaron M Schapper",
+    "company": "MYE",
+    "role": "CEO",
+    "headline": "Aaron M Schapper (CEO) → MYE",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Aaron M Schapper",
+    "company": "MYE",
+    "role": "Director",
+    "headline": "Aaron M Schapper (Director) → MYE",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "A Haag Sherman",
+    "company": "TECTP",
+    "role": "CEO",
+    "headline": "A Haag Sherman (CEO) → TECTP",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "A Haag Sherman",
+    "company": "CBZ, TECTP",
+    "role": "Director",
+    "headline": "A Haag Sherman (Director) → CBZ, TECTP",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Aman Narang",
+    "company": "TOST",
+    "role": "CEO",
+    "headline": "Aman Narang (CEO) → TOST",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Aman Narang",
+    "company": "TOST",
+    "role": "Director",
+    "headline": "Aman Narang (Director) → TOST",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Amir Vexler",
+    "company": "LEU",
+    "role": "CEO",
+    "headline": "Amir Vexler (CEO) → LEU",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Amir Vexler",
+    "company": "LEU",
+    "role": "Director",
+    "headline": "Amir Vexler (Director) → LEU",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Anhco Nguyen",
+    "company": "ATRA",
+    "role": "CEO",
+    "headline": "Anhco Nguyen (CEO) → ATRA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Anhco Nguyen",
+    "company": "ATRA",
+    "role": "Director",
+    "headline": "Anhco Nguyen (Director) → ATRA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Asher Genoot",
+    "company": "HUT",
+    "role": "CEO",
+    "headline": "Asher Genoot (CEO) → HUT",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Asher Genoot",
+    "company": "ABTC, HUT",
+    "role": "Director",
+    "headline": "Asher Genoot (Director) → ABTC, HUT",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Charles J Prober",
+    "company": "NTGR",
+    "role": "CEO",
+    "headline": "Charles J Prober (CEO) → NTGR",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Charles J Prober",
+    "company": "LIF, NTGR",
+    "role": "Director",
+    "headline": "Charles J Prober (Director) → LIF, NTGR",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Christine Barone",
+    "company": "BROS",
+    "role": "CEO",
+    "headline": "Christine Barone (CEO) → BROS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Christine Barone",
+    "company": "BROS, YELP",
+    "role": "Director",
+    "headline": "Christine Barone (Director) → BROS, YELP",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Christopher John Moore",
+    "company": "GOGO",
+    "role": "CEO",
+    "headline": "Christopher John Moore (CEO) → GOGO",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Christopher John Moore",
+    "company": "GOGO",
+    "role": "Director",
+    "headline": "Christopher John Moore (Director) → GOGO",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Christopher T Calio",
+    "company": "RTX",
+    "role": "CEO",
+    "headline": "Christopher T Calio (CEO) → RTX",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Christopher T Calio",
+    "company": "RTX",
+    "role": "Director",
+    "headline": "Christopher T Calio (Director) → RTX",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Colleen Keating",
+    "company": "PLNT",
+    "role": "CEO",
+    "headline": "Colleen Keating (CEO) → PLNT",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Colleen Keating",
+    "company": "PLNT",
+    "role": "Director",
+    "headline": "Colleen Keating (Director) → PLNT",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Dale A Asplund",
+    "company": "BV",
+    "role": "CEO",
+    "headline": "Dale A Asplund (CEO) → BV",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Dale A Asplund",
+    "company": "BV",
+    "role": "Director",
+    "headline": "Dale A Asplund (Director) → BV",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Edward N Pick",
+    "company": "MS",
+    "role": "CEO",
+    "headline": "Edward N Pick (CEO) → MS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Edward N Pick",
+    "company": "MS",
+    "role": "Director",
+    "headline": "Edward N Pick (Director) → MS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Fillipo “Peter” Caldini",
+    "company": "ESTA",
+    "role": "CEO",
+    "headline": "Fillipo “Peter” Caldini (CEO) → ESTA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Fillipo “Peter” Caldini",
+    "company": "ESTA",
+    "role": "Director",
+    "headline": "Fillipo “Peter” Caldini (Director) → ESTA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Franco Fogliato",
+    "company": "FOSL",
+    "role": "CEO",
+    "headline": "Franco Fogliato (CEO) → FOSL",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Franco Fogliato",
+    "company": "FOSL",
+    "role": "Director",
+    "headline": "Franco Fogliato (Director) → FOSL",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Gary C Evan",
+    "company": "UAMY",
+    "role": "CEO",
+    "headline": "Gary C Evan (CEO) → UAMY",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Gary C Evan",
+    "company": "UAMY",
+    "role": "Director",
+    "headline": "Gary C Evan (Director) → UAMY",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Gary G Smalley",
+    "company": "TPC",
+    "role": "CEO",
+    "headline": "Gary G Smalley (CEO) → TPC",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Gary G Smalley",
+    "company": "Unknown Company",
+    "role": "CFO",
+    "headline": "Gary G Smalley (CFO) →",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Gary G Smalley",
+    "company": "TPC",
+    "role": "Director",
+    "headline": "Gary G Smalley (Director) → TPC",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Gregory Clark Anderson",
+    "company": "ALGT",
+    "role": "CEO",
+    "headline": "Gregory Clark Anderson (CEO) → ALGT",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Gregory Clark Anderson",
+    "company": "Unknown Company",
+    "role": "CFO",
+    "headline": "Gregory Clark Anderson (CFO) →",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Gregory Clark Anderson",
+    "company": "ALGT",
+    "role": "Director",
+    "headline": "Gregory Clark Anderson (Director) → ALGT",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Hong Q Hou",
+    "company": "SMTC",
+    "role": "CEO",
+    "headline": "Hong Q Hou (CEO) → SMTC",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Hong Q Hou",
+    "company": "SMTC",
+    "role": "Director",
+    "headline": "Hong Q Hou (Director) → SMTC",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Ian F Smith",
+    "company": "STOK",
+    "role": "CEO",
+    "headline": "Ian F Smith (CEO) → STOK",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Ian F Smith",
+    "company": "Unknown Company",
+    "role": "CFO",
+    "headline": "Ian F Smith (CFO) →",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Ian F Smith",
+    "company": "FHTX, STOK",
+    "role": "Director",
+    "headline": "Ian F Smith (Director) → FHTX, STOK",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Jacob Dewitte",
+    "company": "OKLO",
+    "role": "CEO",
+    "headline": "Jacob Dewitte (CEO) → OKLO",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Jacob Dewitte",
+    "company": "OKLO",
+    "role": "Director",
+    "headline": "Jacob Dewitte (Director) → OKLO",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "James Caldwell Flores",
+    "company": "SOC",
+    "role": "CEO",
+    "headline": "James Caldwell Flores (CEO) → SOC",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "James Caldwell Flores",
+    "company": "SOC",
+    "role": "Director",
+    "headline": "James Caldwell Flores (Director) → SOC",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Jason Long",
+    "company": "LB",
+    "role": "CEO",
+    "headline": "Jason Long (CEO) → LB",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Jason Long",
+    "company": "LB, WBI",
+    "role": "Director",
+    "headline": "Jason Long (Director) → LB, WBI",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "J David Joyner",
+    "company": "CVS",
+    "role": "CEO",
+    "headline": "J David Joyner (CEO) → CVS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "J David Joyner",
+    "company": "CVS",
+    "role": "Director",
+    "headline": "J David Joyner (Director) → CVS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Jennifer Lynn Slater",
+    "company": "STRT",
+    "role": "CEO",
+    "headline": "Jennifer Lynn Slater (CEO) → STRT",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Jennifer Lynn Slater",
+    "company": "STRT, VVV",
+    "role": "Director",
+    "headline": "Jennifer Lynn Slater (Director) → STRT, VVV",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Jeremy Wacksman",
+    "company": "ZG",
+    "role": "CEO",
+    "headline": "Jeremy Wacksman (CEO) → ZG",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Jeremy Wacksman",
+    "company": "ZG",
+    "role": "Director",
+    "headline": "Jeremy Wacksman (Director) → ZG",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Jonathan Cherry",
+    "company": "PPTA",
+    "role": "CEO",
+    "headline": "Jonathan Cherry (CEO) → PPTA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Jonathan Cherry",
+    "company": "PPTA",
+    "role": "Director",
+    "headline": "Jonathan Cherry (Director) → PPTA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Joseph F Fadool",
+    "company": "BWA",
+    "role": "CEO",
+    "headline": "Joseph F Fadool (CEO) → BWA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Joseph F Fadool",
+    "company": "BWA",
+    "role": "Director",
+    "headline": "Joseph F Fadool (Director) → BWA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Justin Jacobs",
+    "company": "NGS",
+    "role": "CEO",
+    "headline": "Justin Jacobs (CEO) → NGS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Justin Jacobs",
+    "company": "NGS",
+    "role": "Director",
+    "headline": "Justin Jacobs (Director) → NGS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Kevin McAleenan",
+    "company": "BBAI",
+    "role": "CEO",
+    "headline": "Kevin McAleenan (CEO) → BBAI",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Kevin McAleenan",
+    "company": "BBAI",
+    "role": "Director",
+    "headline": "Kevin McAleenan (Director) → BBAI",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Kevin Smith",
+    "company": "INGN",
+    "role": "CEO",
+    "headline": "Kevin Smith (CEO) → INGN",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Kevin Smith",
+    "company": "INGN",
+    "role": "Director",
+    "headline": "Kevin Smith (Director) → INGN",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Khozema Shipchandler",
+    "company": "TWLO",
+    "role": "CEO",
+    "headline": "Khozema Shipchandler (CEO) → TWLO",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Khozema Shipchandler",
+    "company": "Unknown Company",
+    "role": "CFO",
+    "headline": "Khozema Shipchandler (CFO) →",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Khozema Shipchandler",
+    "company": "TWLO",
+    "role": "Director",
+    "headline": "Khozema Shipchandler (Director) → TWLO",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Lawrence S Coben",
+    "company": "NRG",
+    "role": "CEO",
+    "headline": "Lawrence S Coben (CEO) → NRG",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Lawrence S Coben",
+    "company": "NRG",
+    "role": "Director",
+    "headline": "Lawrence S Coben (Director) → NRG",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Li Wai Chung",
+    "company": "FIEE",
+    "role": "CEO",
+    "headline": "Li Wai Chung (CEO) → FIEE",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Luis Goldner",
+    "company": "VS",
+    "role": "CEO",
+    "headline": "Luis Goldner (CEO) → VS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Luis Goldner",
+    "company": "VS",
+    "role": "Director",
+    "headline": "Luis Goldner (Director) → VS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Marc H McConnell",
+    "company": "ARTW",
+    "role": "CEO",
+    "headline": "Marc H McConnell (CEO) → ARTW",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Marc H McConnell",
+    "company": "ARTW, CBNK",
+    "role": "Director",
+    "headline": "Marc H McConnell (Director) → ARTW, CBNK",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Margaret Tooth",
+    "company": "TRUP",
+    "role": "CEO",
+    "headline": "Margaret Tooth (CEO) → TRUP",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Margaret Tooth",
+    "company": "TRUP",
+    "role": "Director",
+    "headline": "Margaret Tooth (Director) → TRUP",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Mariam Sorond",
+    "company": "NN",
+    "role": "CEO",
+    "headline": "Mariam Sorond (CEO) → NN",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Mariam Sorond",
+    "company": "NN",
+    "role": "Director",
+    "headline": "Mariam Sorond (Director) → NN",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Marino Garcia",
+    "company": "DNTH",
+    "role": "CEO",
+    "headline": "Marino Garcia (CEO) → DNTH",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Marino Garcia",
+    "company": "DNTH",
+    "role": "Director",
+    "headline": "Marino Garcia (Director) → DNTH",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Mark Van Genderen",
+    "company": "PLOW",
+    "role": "CEO",
+    "headline": "Mark Van Genderen (CEO) → PLOW",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Mark Van Genderen",
+    "company": "PLOW",
+    "role": "Director",
+    "headline": "Mark Van Genderen (Director) → PLOW",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael A Bieber",
+    "company": "WLDN",
+    "role": "CEO",
+    "headline": "Michael A Bieber (CEO) → WLDN",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael A Bieber",
+    "company": "WLDN",
+    "role": "Director",
+    "headline": "Michael A Bieber (Director) → WLDN",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael C Creedon Jr",
+    "company": "DLTR",
+    "role": "CEO",
+    "headline": "Michael C Creedon Jr (CEO) → DLTR",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael C Creedon Jr",
+    "company": "DLTR",
+    "role": "Director",
+    "headline": "Michael C Creedon Jr (Director) → DLTR",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael D Dale",
+    "company": "AXGN",
+    "role": "CEO",
+    "headline": "Michael D Dale (CEO) → AXGN",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael D Dale",
+    "company": "AXGN",
+    "role": "Director",
+    "headline": "Michael D Dale (Director) → AXGN",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael Doogue",
+    "company": "ALGM",
+    "role": "CEO",
+    "headline": "Michael Doogue (CEO) → ALGM",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael Doogue",
+    "company": "ALGM",
+    "role": "Director",
+    "headline": "Michael Doogue (Director) → ALGM",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael G Huston",
+    "company": "NRIM",
+    "role": "CEO",
+    "headline": "Michael G Huston (CEO) → NRIM",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael G Huston",
+    "company": "NRIM",
+    "role": "Director",
+    "headline": "Michael G Huston (Director) → NRIM",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael Liebowitz",
+    "company": "DOUG",
+    "role": "CEO",
+    "headline": "Michael Liebowitz (CEO) → DOUG",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Michael Liebowitz",
+    "company": "DOUG",
+    "role": "Director",
+    "headline": "Michael Liebowitz (Director) → DOUG",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Nicholas J Randall",
+    "company": "RAIL",
+    "role": "CEO",
+    "headline": "Nicholas J Randall (CEO) → RAIL",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Nicholas J Randall",
+    "company": "RAIL",
+    "role": "Director",
+    "headline": "Nicholas J Randall (Director) → RAIL",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Nicole A Kivisto",
+    "company": "MDU",
+    "role": "CEO",
+    "headline": "Nicole A Kivisto (CEO) → MDU",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Nicole A Kivisto",
+    "company": "MDU",
+    "role": "Director",
+    "headline": "Nicole A Kivisto (Director) → MDU",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Patrick James Venetucci",
+    "company": "IZEA",
+    "role": "CEO",
+    "headline": "Patrick James Venetucci (CEO) → IZEA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Patrick James Venetucci",
+    "company": "Unknown Company",
+    "role": "Director",
+    "headline": "Patrick James Venetucci (Director) →",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Paul Taylor Edmondson",
+    "company": "AREN",
+    "role": "CEO",
+    "headline": "Paul Taylor Edmondson (CEO) → AREN",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Peter Ludlum",
+    "company": "PULM",
+    "role": "CEO",
+    "headline": "Peter Ludlum (CEO) → PULM",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Peter Ludlum",
+    "company": "PULM",
+    "role": "CFO",
+    "headline": "Peter Ludlum (CFO) → PULM",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Philip B Daniele",
+    "company": "AZO",
+    "role": "CEO",
+    "headline": "Philip B Daniele (CEO) → AZO",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Philip B Daniele",
+    "company": "AZO",
+    "role": "Director",
+    "headline": "Philip B Daniele (Director) → AZO",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Philip G Brace",
+    "company": "SWKS",
+    "role": "CEO",
+    "headline": "Philip G Brace (CEO) → SWKS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Philip G Brace",
+    "company": "Unknown Company",
+    "role": "CFO",
+    "headline": "Philip G Brace (CFO) →",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Philip G Brace",
+    "company": "BB, SWKS",
+    "role": "Director",
+    "headline": "Philip G Brace (Director) → BB, SWKS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Robert C Flexon",
+    "company": "UGI",
+    "role": "CEO",
+    "headline": "Robert C Flexon (CEO) → UGI",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Robert C Flexon",
+    "company": "Unknown Company",
+    "role": "CFO",
+    "headline": "Robert C Flexon (CFO) →",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Robert C Flexon",
+    "company": "UGI",
+    "role": "Director",
+    "headline": "Robert C Flexon (Director) → UGI",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Robert E Claypoole",
+    "company": "BVS",
+    "role": "CEO",
+    "headline": "Robert E Claypoole (CEO) → BVS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Robert E Claypoole",
+    "company": "BVS",
+    "role": "Director",
+    "headline": "Robert E Claypoole (Director) → BVS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Roderick De Greef",
+    "company": "BLFS",
+    "role": "CEO",
+    "headline": "Roderick De Greef (CEO) → BLFS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Roderick De Greef",
+    "company": "Unknown Company",
+    "role": "CFO",
+    "headline": "Roderick De Greef (CFO) →",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Roderick De Greef",
+    "company": "BLFS",
+    "role": "Director",
+    "headline": "Roderick De Greef (Director) → BLFS",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Ronald W Hovsepian",
+    "company": "SKIL",
+    "role": "CEO",
+    "headline": "Ronald W Hovsepian (CEO) → SKIL",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Ronald W Hovsepian",
+    "company": "SKIL",
+    "role": "Director",
+    "headline": "Ronald W Hovsepian (Director) → SKIL",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Scott Strazik",
+    "company": "GEV",
+    "role": "CEO",
+    "headline": "Scott Strazik (CEO) → GEV",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Scott Strazik",
+    "company": "GEV",
+    "role": "Director",
+    "headline": "Scott Strazik (Director) → GEV",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Srinivas Rao",
+    "company": "ATAI",
+    "role": "CEO",
+    "headline": "Srinivas Rao (CEO) → ATAI",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Srinivas Rao",
+    "company": "Unknown Company",
+    "role": "Director",
+    "headline": "Srinivas Rao (Director) →",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Stephen C Farrell",
+    "company": "STAA",
+    "role": "CEO",
+    "headline": "Stephen C Farrell (CEO) → STAA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Stephen C Farrell",
+    "company": "STAA",
+    "role": "Director",
+    "headline": "Stephen C Farrell (Director) → STAA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Stephen L Silvestro",
+    "company": "OPRX",
+    "role": "CEO",
+    "headline": "Stephen L Silvestro (CEO) → OPRX",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Stephen L Silvestro",
+    "company": "OPRX",
+    "role": "Director",
+    "headline": "Stephen L Silvestro (Director) → OPRX",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Thomas J Schaefer",
+    "company": "RKDA",
+    "role": "CEO",
+    "headline": "Thomas J Schaefer (CEO) → RKDA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Thomas J Schaefer",
+    "company": "RKDA",
+    "role": "CFO",
+    "headline": "Thomas J Schaefer (CFO) → RKDA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Thomas J Schaefer",
+    "company": "RKDA",
+    "role": "Director",
+    "headline": "Thomas J Schaefer (Director) → RKDA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Wes Kaupinen",
+    "company": "PVLA",
+    "role": "CEO",
+    "headline": "Wes Kaupinen (CEO) → PVLA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Wes Kaupinen",
+    "company": "PVLA",
+    "role": "Director",
+    "headline": "Wes Kaupinen (Director) → PVLA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Wesley H. Kaupinen",
+    "company": "PVLA",
+    "role": "CEO",
+    "headline": "Wesley H. Kaupinen (CEO) → PVLA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Wesley H. Kaupinen",
+    "company": "PVLA",
+    "role": "Director",
+    "headline": "Wesley H. Kaupinen (Director) → PVLA",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "William I Jacobs",
+    "company": "GDOT",
+    "role": "CEO",
+    "headline": "William I Jacobs (CEO) → GDOT",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "William I Jacobs",
+    "company": "GDOT, RPAY",
+    "role": "Director",
+    "headline": "William I Jacobs (Director) → GDOT, RPAY",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Yann Brandt",
+    "company": "FTCI",
+    "role": "CEO",
+    "headline": "Yann Brandt (CEO) → FTCI",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Yann Brandt",
+    "company": "FTCI",
+    "role": "Director",
+    "headline": "Yann Brandt (Director) → FTCI",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Yehoshua Nir",
+    "company": "SEDG",
+    "role": "CEO",
+    "headline": "Yehoshua Nir (CEO) → SEDG",
+    "source": "boardroom_alpha"
+  },
+  {
+    "person": "Yehoshua Nir",
+    "company": "SEDG",
+    "role": "Director",
+    "headline": "Yehoshua Nir (Director) → SEDG",
+    "source": "boardroom_alpha"
+  }
+]
